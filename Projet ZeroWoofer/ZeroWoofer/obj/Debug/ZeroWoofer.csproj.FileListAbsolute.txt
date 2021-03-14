@@ -1,0 +1,8 @@
+C:\Users\48696\Desktop\all-open-source-master\Projet ZeroWoofer\ZeroWoofer\obj\Debug\ZeroWoofer.csprojAssemblyReference.cache
+C:\Users\48696\Desktop\all-open-source-master\Projet ZeroWoofer\ZeroWoofer\obj\Debug\ZeroWoofer.Form1.resources
+C:\Users\48696\Desktop\all-open-source-master\Projet ZeroWoofer\ZeroWoofer\obj\Debug\ZeroWoofer.loader.resources
+C:\Users\48696\Desktop\all-open-source-master\Projet ZeroWoofer\ZeroWoofer\obj\Debug\ZeroWoofer.main.resources
+C:\Users\48696\Desktop\all-open-source-master\Projet ZeroWoofer\ZeroWoofer\obj\Debug\ZeroWoofer.Properties.Resources.resources
+C:\Users\48696\Desktop\all-open-source-master\Projet ZeroWoofer\ZeroWoofer\obj\Debug\ZeroWoofer.register.resources
+C:\Users\48696\Desktop\all-open-source-master\Projet ZeroWoofer\ZeroWoofer\obj\Debug\ZeroWoofer.csproj.GenerateResource.cache
+C:\Users\48696\Desktop\all-open-source-master\Projet ZeroWoofer\ZeroWoofer\obj\Debug\ZeroWoofer.csproj.CoreCompileInputs.cache
